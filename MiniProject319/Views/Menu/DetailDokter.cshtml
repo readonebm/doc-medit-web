@@ -1,0 +1,169 @@
+<style>
+.card{
+    background-color: none !important;
+}
+</style>
+
+<div class="pagetitle">
+            <h1>Detail Dokter</h1>
+            <nav>
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Index">Home</a></li>
+                    <li class="breadcrumb-item active">Detail Dokter</li>
+                </ol>
+            </nav>
+</div><!-- End Page Title -->
+
+<div class="row">
+    <div class="col-xl-4">
+        <div class="p-4 " style="width: 17rem">
+                        <img class="card-img-top rounded-circle" src="~/assets/img/profile-img.jpg" alt="Card image cap">
+                    </div>
+    </div>
+    <div class="col-xl-8">
+        <div class="row">
+                    <div style="col-md-8">
+                        <h2 class="card-title"
+                            style="margin-bottom:0; padding-bottom:0; font-size:24px; font-weight:600">
+                            dr. Intan Mutiara
+                        </h2>
+                        <p class="card-text"><small>Spesialis anak | 5 Tahun</small></p>
+                    </div>
+
+                    <div class="col-md-4 d-grid gap-2 d-md-flex justify-content-md-end">
+                        <button class="btn btn-primary">Buat Janji</button>
+                        <button class="btn btn-outline-primary">Chat</button>
+                    </div>
+
+                </div>
+    </div> 
+</div>
+
+
+<section class="section profile">
+            <div class="row">
+                <div class="col-xl-4">
+                    <!--Image-->
+                    @* <div class="p-4 " style="width: 17rem">
+                        <img class="card-img-top rounded-circle" src="~/assets/img/profile-img.jpg" alt="Card image cap">
+                    </div> *@
+                    <!--Image-->
+
+                    <div class="card">
+                    <div class="card-header h6 bg-primary text-white">Tentang Saya</div>
+                        <div class="card-body">
+                        <div class="card-title" style="font-size:medium">Tindakan Medis</div>
+                        <ul>
+                            <li>Fisioterapi anak</li>
+                        <li>Konsultasi kesehatan anak</li>
+                        <li>Vaksin Anak</li>
+                    </ul>
+
+                    <div class="card-title" style="font-size:medium">Riwayat Praktek</div>
+                    <ul>
+                        <li class="mb-2">
+                            RS Mitra, Depok
+                            <br />
+                            <small>(Dokter Anak) | 2019 - Sekarang</small>
+                        </li>
+                        <li>
+                            RSIA Bunda, Jakarta Pusat
+                            <br />
+                            <small>(Dokter Anak) | 2019 - Sekarang</small>
+                        </li> 
+                    </ul>
+
+                    <div class="card-title" style="font-size:medium">Pendidikan</div>
+                    <ul>
+                        <li class="mb-2">
+                            Universitas Padjajaran
+                            <br />
+                            <small>2019 - Spesialis Anak</small>
+                        </li>
+                        <li>
+                            Universitas Padjajaran
+                            <br />
+                            <small>2011 - Kedokteran Umum</small>
+                        </li>
+                    </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-8">
+
+                    <div class="card">
+                        <div class="card-body p-2">
+                            <div class="">
+
+                                    <h5 class="card-title">Nama Dokter</h5>
+                                    <p class="small">Dokter Anak | 4 Tahun Pengalaman</p>
+
+                            </div><!-- End Bordered Tabs -->
+
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-body pt-3">
+                            <!-- Bordered Tabs -->
+                            <ul class="nav nav-tabs nav-tabs-bordered">
+
+                                <li class="nav-item">
+                                    <button class="nav-link active" data-bs-toggle="tab" data-bs-target="#tindakan">Tindakan</button>
+                                </li>
+
+                                <li class="nav-item">
+                                    <button class="nav-link" data-bs-toggle="tab" data-bs-target="#aktifitas">Aktifitas</button>
+                                </li>
+
+                                <li class="nav-item">
+                                    <button class="nav-link" data-bs-toggle="tab" data-bs-target="#konsultasi">Konsultasi</button>
+                                </li>
+
+                                <li class="nav-item">
+                                    <button class="nav-link" data-bs-toggle="tab" data-bs-target="#pengaturan">Pengaturan</button>
+                                </li>
+
+                            </ul>
+                            <div class="tab-content pt-2">
+
+                                <div class="tab-pane fade show active profile-overview" id="tindakan">
+                                    <h5 class="card-title">Tindakan</h5>
+                                    <p class="small fst-italic">Sunt est soluta temporibus accusantium neque nam maiores cumque temporibus. Tempora libero non est unde veniam est qui dolor. Ut sunt iure rerum quae quisquam autem eveniet perspiciatis odit. Fuga sequi sed ea saepe at unde.</p>
+
+                                </div>
+
+                                <div class="tab-pane fade profile-edit pt-3" id="aktifitas">
+
+                            <h5 class="card-title">Aktifitas</h5>
+                            <p class="small fst-italic">Sunt est soluta temporibus accusantium neque nam maiores cumque temporibus. Tempora libero non est unde veniam est qui dolor. Ut sunt iure rerum quae quisquam autem eveniet perspiciatis odit. Fuga sequi sed ea saepe at unde.</p>
+
+                                </div>
+
+                                <div class="tab-pane fade pt-3" id="konsultasi">
+
+                            <h5 class="card-title">Konsultasi</h5>
+                            <p class="small fst-italic">Sunt est soluta temporibus accusantium neque nam maiores cumque temporibus. Tempora libero non est unde veniam est qui dolor. Ut sunt iure rerum quae quisquam autem eveniet perspiciatis odit. Fuga sequi sed ea saepe at unde.</p>
+
+                                </div>
+
+                                <div class="tab-pane fade pt-3" id="pengaturan">
+                            <h5 class="card-title">Pengaturan</h5>
+                            <p class="small fst-italic">Sunt est soluta temporibus accusantium neque nam maiores cumque temporibus. Tempora libero non est unde veniam est qui dolor. Ut sunt iure rerum quae quisquam autem eveniet perspiciatis odit. Fuga sequi sed ea saepe at unde.</p>
+
+                                </div>
+
+                            </div><!-- End Bordered Tabs -->
+
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+
+
+
+

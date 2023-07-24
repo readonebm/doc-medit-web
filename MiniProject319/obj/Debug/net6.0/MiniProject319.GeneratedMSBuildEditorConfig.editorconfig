@@ -1,0 +1,120 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MiniProject319
+build_property.RootNamespace = MiniProject319
+build_property.ProjectDir = /Users/etalasedigital1/Documents/taskost/MiniProject319/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/etalasedigital1/Documents/taskost/MiniProject319
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/etalasedigital1/Documents/taskost/MiniProject319/Views/Auth/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXV0aC9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/etalasedigital1/Documents/taskost/MiniProject319/Views/DoctorProfile/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9jdG9yUHJvZmlsZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/etalasedigital1/Documents/taskost/MiniProject319/Views/Dokter/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9rdGVyL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/etalasedigital1/Documents/taskost/MiniProject319/Views/Dokter/ListDokter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9rdGVyL0xpc3REb2t0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/etalasedigital1/Documents/taskost/MiniProject319/Views/Faskes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmFza2VzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/etalasedigital1/Documents/taskost/MiniProject319/Views/Faskes/Obat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmFza2VzL09iYXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/etalasedigital1/Documents/taskost/MiniProject319/Views/Home/Faq.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9GYXEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/etalasedigital1/Documents/taskost/MiniProject319/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/etalasedigital1/Documents/taskost/MiniProject319/Views/Home/IndexOld1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleE9sZDEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/etalasedigital1/Documents/taskost/MiniProject319/Views/Home/IndexOld2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleE9sZDIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/etalasedigital1/Documents/taskost/MiniProject319/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/etalasedigital1/Documents/taskost/MiniProject319/Views/Menu/CariDokter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVudS9DYXJpRG9rdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/etalasedigital1/Documents/taskost/MiniProject319/Views/Menu/DetailDokter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVudS9EZXRhaWxEb2t0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/etalasedigital1/Documents/taskost/MiniProject319/Views/Menu/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVudS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/etalasedigital1/Documents/taskost/MiniProject319/Views/Pasien/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFzaWVuL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/etalasedigital1/Documents/taskost/MiniProject319/Views/Profile/Profile_Dokter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZmlsZS9Qcm9maWxlX0Rva3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/etalasedigital1/Documents/taskost/MiniProject319/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/etalasedigital1/Documents/taskost/MiniProject319/Views/Shared/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19IZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/etalasedigital1/Documents/taskost/MiniProject319/Views/Shared/_Sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19TaWRlYmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/etalasedigital1/Documents/taskost/MiniProject319/Views/Shared/_SidebarConnect.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19TaWRlYmFyQ29ubmVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/etalasedigital1/Documents/taskost/MiniProject319/Views/Shared/_SidebarOld.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19TaWRlYmFyT2xkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/etalasedigital1/Documents/taskost/MiniProject319/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/etalasedigital1/Documents/taskost/MiniProject319/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/etalasedigital1/Documents/taskost/MiniProject319/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/etalasedigital1/Documents/taskost/MiniProject319/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-cw108yvskt
+
+[/Users/etalasedigital1/Documents/taskost/MiniProject319/Views/Shared/_LayoutOld.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXRPbGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-mjxf86n5lx

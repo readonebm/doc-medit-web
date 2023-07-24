@@ -1,0 +1,70 @@
+E:/BATCH 319/MINI PROJECT/MiniProject319/MiniProject319.DataModels/bin/Debug/net6.0/MiniProject319.DataModels.deps.json
+E:/BATCH 319/MINI PROJECT/MiniProject319/MiniProject319.DataModels/bin/Debug/net6.0/MiniProject319.DataModels.dll
+E:/BATCH 319/MINI PROJECT/MiniProject319/MiniProject319.DataModels/bin/Debug/net6.0/MiniProject319.DataModels.pdb
+E:/BATCH 319/MINI PROJECT/MiniProject319/MiniProject319.DataModels/obj/Debug/net6.0/MiniProject319.DataModels.csproj.AssemblyReference.cache
+E:/BATCH 319/MINI PROJECT/MiniProject319/MiniProject319.DataModels/obj/Debug/net6.0/MiniProject319.DataModels.GeneratedMSBuildEditorConfig.editorconfig
+E:/BATCH 319/MINI PROJECT/MiniProject319/MiniProject319.DataModels/obj/Debug/net6.0/MiniProject319.DataModels.AssemblyInfoInputs.cache
+E:/BATCH 319/MINI PROJECT/MiniProject319/MiniProject319.DataModels/obj/Debug/net6.0/MiniProject319.DataModels.AssemblyInfo.cs
+E:/BATCH 319/MINI PROJECT/MiniProject319/MiniProject319.DataModels/obj/Debug/net6.0/MiniProject319.DataModels.csproj.CoreCompileInputs.cache
+E:/BATCH 319/MINI PROJECT/MiniProject319/MiniProject319.DataModels/obj/Debug/net6.0/MiniProject319.DataModels.dll
+E:/BATCH 319/MINI PROJECT/MiniProject319/MiniProject319.DataModels/obj/Debug/net6.0/refint/MiniProject319.DataModels.dll
+E:/BATCH 319/MINI PROJECT/MiniProject319/MiniProject319.DataModels/obj/Debug/net6.0/MiniProject319.DataModels.pdb
+E:/BATCH 319/MINI PROJECT/MiniProject319/MiniProject319.DataModels/obj/Debug/net6.0/ref/MiniProject319.DataModels.dll
+E:/BATCH 319/MINI PROJECT/MiniProject319/MiniProject319.DataModels/bin/Debug/net6.0/MiniProject319.DataModels.runtimeconfig.json
+E:/BATCH 319/MINI PROJECT/MiniProject319/MiniProject319.DataModels/obj/Debug/net6.0/MiniProject319.DataModels.genruntimeconfig.cache
+C:/BATCH_319/medit_web_app/medi-web/medit-web-app/MiniProject319/MiniProject319.DataModels/bin/Debug/net6.0/MiniProject319.DataModels.deps.json
+C:/BATCH_319/medit_web_app/medi-web/medit-web-app/MiniProject319/MiniProject319.DataModels/bin/Debug/net6.0/MiniProject319.DataModels.runtimeconfig.json
+C:/BATCH_319/medit_web_app/medi-web/medit-web-app/MiniProject319/MiniProject319.DataModels/bin/Debug/net6.0/MiniProject319.DataModels.dll
+C:/BATCH_319/medit_web_app/medi-web/medit-web-app/MiniProject319/MiniProject319.DataModels/bin/Debug/net6.0/MiniProject319.DataModels.pdb
+C:/BATCH_319/medit_web_app/medi-web/medit-web-app/MiniProject319/MiniProject319.DataModels/obj/Debug/net6.0/MiniProject319.DataModels.csproj.AssemblyReference.cache
+C:/BATCH_319/medit_web_app/medi-web/medit-web-app/MiniProject319/MiniProject319.DataModels/obj/Debug/net6.0/MiniProject319.DataModels.GeneratedMSBuildEditorConfig.editorconfig
+C:/BATCH_319/medit_web_app/medi-web/medit-web-app/MiniProject319/MiniProject319.DataModels/obj/Debug/net6.0/MiniProject319.DataModels.AssemblyInfoInputs.cache
+C:/BATCH_319/medit_web_app/medi-web/medit-web-app/MiniProject319/MiniProject319.DataModels/obj/Debug/net6.0/MiniProject319.DataModels.AssemblyInfo.cs
+C:/BATCH_319/medit_web_app/medi-web/medit-web-app/MiniProject319/MiniProject319.DataModels/obj/Debug/net6.0/MiniProject319.DataModels.csproj.CoreCompileInputs.cache
+C:/BATCH_319/medit_web_app/medi-web/medit-web-app/MiniProject319/MiniProject319.DataModels/obj/Debug/net6.0/MiniProject319.DataModels.dll
+C:/BATCH_319/medit_web_app/medi-web/medit-web-app/MiniProject319/MiniProject319.DataModels/obj/Debug/net6.0/refint/MiniProject319.DataModels.dll
+C:/BATCH_319/medit_web_app/medi-web/medit-web-app/MiniProject319/MiniProject319.DataModels/obj/Debug/net6.0/MiniProject319.DataModels.pdb
+C:/BATCH_319/medit_web_app/medi-web/medit-web-app/MiniProject319/MiniProject319.DataModels/obj/Debug/net6.0/MiniProject319.DataModels.genruntimeconfig.cache
+C:/BATCH_319/medit_web_app/medi-web/medit-web-app/MiniProject319/MiniProject319.DataModels/obj/Debug/net6.0/ref/MiniProject319.DataModels.dll
+C:/BATCH_319/miniproject-banu/medit-web-app/MiniProject319/MiniProject319.DataModels/bin/Debug/net6.0/MiniProject319.DataModels.deps.json
+C:/BATCH_319/miniproject-banu/medit-web-app/MiniProject319/MiniProject319.DataModels/bin/Debug/net6.0/MiniProject319.DataModels.runtimeconfig.json
+C:/BATCH_319/miniproject-banu/medit-web-app/MiniProject319/MiniProject319.DataModels/bin/Debug/net6.0/MiniProject319.DataModels.dll
+C:/BATCH_319/miniproject-banu/medit-web-app/MiniProject319/MiniProject319.DataModels/bin/Debug/net6.0/MiniProject319.DataModels.pdb
+C:/BATCH_319/miniproject-banu/medit-web-app/MiniProject319/MiniProject319.DataModels/obj/Debug/net6.0/MiniProject319.DataModels.csproj.AssemblyReference.cache
+C:/BATCH_319/miniproject-banu/medit-web-app/MiniProject319/MiniProject319.DataModels/obj/Debug/net6.0/MiniProject319.DataModels.GeneratedMSBuildEditorConfig.editorconfig
+C:/BATCH_319/miniproject-banu/medit-web-app/MiniProject319/MiniProject319.DataModels/obj/Debug/net6.0/MiniProject319.DataModels.AssemblyInfoInputs.cache
+C:/BATCH_319/miniproject-banu/medit-web-app/MiniProject319/MiniProject319.DataModels/obj/Debug/net6.0/MiniProject319.DataModels.AssemblyInfo.cs
+C:/BATCH_319/miniproject-banu/medit-web-app/MiniProject319/MiniProject319.DataModels/obj/Debug/net6.0/MiniProject319.DataModels.csproj.CoreCompileInputs.cache
+C:/BATCH_319/miniproject-banu/medit-web-app/MiniProject319/MiniProject319.DataModels/obj/Debug/net6.0/MiniProject319.DataModels.dll
+C:/BATCH_319/miniproject-banu/medit-web-app/MiniProject319/MiniProject319.DataModels/obj/Debug/net6.0/refint/MiniProject319.DataModels.dll
+C:/BATCH_319/miniproject-banu/medit-web-app/MiniProject319/MiniProject319.DataModels/obj/Debug/net6.0/MiniProject319.DataModels.pdb
+C:/BATCH_319/miniproject-banu/medit-web-app/MiniProject319/MiniProject319.DataModels/obj/Debug/net6.0/MiniProject319.DataModels.genruntimeconfig.cache
+C:/BATCH_319/miniproject-banu/medit-web-app/MiniProject319/MiniProject319.DataModels/obj/Debug/net6.0/ref/MiniProject319.DataModels.dll
+/Users/etalasedigital1/Documents/taskost/MiniProject319/MiniProject319.DataModels/bin/Debug/net6.0/MiniProject319.DataModels.deps.json
+/Users/etalasedigital1/Documents/taskost/MiniProject319/MiniProject319.DataModels/bin/Debug/net6.0/MiniProject319.DataModels.runtimeconfig.json
+/Users/etalasedigital1/Documents/taskost/MiniProject319/MiniProject319.DataModels/bin/Debug/net6.0/MiniProject319.DataModels.dll
+/Users/etalasedigital1/Documents/taskost/MiniProject319/MiniProject319.DataModels/bin/Debug/net6.0/MiniProject319.DataModels.pdb
+/Users/etalasedigital1/Documents/taskost/MiniProject319/MiniProject319.DataModels/obj/Debug/net6.0/MiniProject319.DataModels.csproj.AssemblyReference.cache
+/Users/etalasedigital1/Documents/taskost/MiniProject319/MiniProject319.DataModels/obj/Debug/net6.0/MiniProject319.DataModels.GeneratedMSBuildEditorConfig.editorconfig
+/Users/etalasedigital1/Documents/taskost/MiniProject319/MiniProject319.DataModels/obj/Debug/net6.0/MiniProject319.DataModels.AssemblyInfoInputs.cache
+/Users/etalasedigital1/Documents/taskost/MiniProject319/MiniProject319.DataModels/obj/Debug/net6.0/MiniProject319.DataModels.AssemblyInfo.cs
+/Users/etalasedigital1/Documents/taskost/MiniProject319/MiniProject319.DataModels/obj/Debug/net6.0/MiniProject319.DataModels.csproj.CoreCompileInputs.cache
+/Users/etalasedigital1/Documents/taskost/MiniProject319/MiniProject319.DataModels/obj/Debug/net6.0/MiniProject319.DataModels.dll
+/Users/etalasedigital1/Documents/taskost/MiniProject319/MiniProject319.DataModels/obj/Debug/net6.0/refint/MiniProject319.DataModels.dll
+/Users/etalasedigital1/Documents/taskost/MiniProject319/MiniProject319.DataModels/obj/Debug/net6.0/MiniProject319.DataModels.pdb
+/Users/etalasedigital1/Documents/taskost/MiniProject319/MiniProject319.DataModels/obj/Debug/net6.0/MiniProject319.DataModels.genruntimeconfig.cache
+/Users/etalasedigital1/Documents/taskost/MiniProject319/MiniProject319.DataModels/obj/Debug/net6.0/ref/MiniProject319.DataModels.dll
+/Users/etalasedigital1/Documents/taskost/MiniProject319.DataModels/bin/Debug/net6.0/MiniProject319.DataModels.deps.json
+/Users/etalasedigital1/Documents/taskost/MiniProject319.DataModels/bin/Debug/net6.0/MiniProject319.DataModels.runtimeconfig.json
+/Users/etalasedigital1/Documents/taskost/MiniProject319.DataModels/bin/Debug/net6.0/MiniProject319.DataModels.dll
+/Users/etalasedigital1/Documents/taskost/MiniProject319.DataModels/bin/Debug/net6.0/MiniProject319.DataModels.pdb
+/Users/etalasedigital1/Documents/taskost/MiniProject319.DataModels/obj/Debug/net6.0/MiniProject319.DataModels.csproj.AssemblyReference.cache
+/Users/etalasedigital1/Documents/taskost/MiniProject319.DataModels/obj/Debug/net6.0/MiniProject319.DataModels.GeneratedMSBuildEditorConfig.editorconfig
+/Users/etalasedigital1/Documents/taskost/MiniProject319.DataModels/obj/Debug/net6.0/MiniProject319.DataModels.AssemblyInfoInputs.cache
+/Users/etalasedigital1/Documents/taskost/MiniProject319.DataModels/obj/Debug/net6.0/MiniProject319.DataModels.AssemblyInfo.cs
+/Users/etalasedigital1/Documents/taskost/MiniProject319.DataModels/obj/Debug/net6.0/MiniProject319.DataModels.csproj.CoreCompileInputs.cache
+/Users/etalasedigital1/Documents/taskost/MiniProject319.DataModels/obj/Debug/net6.0/MiniProject319.DataModels.dll
+/Users/etalasedigital1/Documents/taskost/MiniProject319.DataModels/obj/Debug/net6.0/refint/MiniProject319.DataModels.dll
+/Users/etalasedigital1/Documents/taskost/MiniProject319.DataModels/obj/Debug/net6.0/MiniProject319.DataModels.pdb
+/Users/etalasedigital1/Documents/taskost/MiniProject319.DataModels/obj/Debug/net6.0/MiniProject319.DataModels.genruntimeconfig.cache
+/Users/etalasedigital1/Documents/taskost/MiniProject319.DataModels/obj/Debug/net6.0/ref/MiniProject319.DataModels.dll
