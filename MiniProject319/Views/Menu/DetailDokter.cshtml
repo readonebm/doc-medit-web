@@ -1,6 +1,9 @@
 <style>
-.card{
-    background-color: none !important;
+    #btn-change[aria-expanded=true] #bi-down {
+   display: none;
+}
+#btn-change[aria-expanded=false] #bi-up {
+   display: none;
 }
 </style>
 
@@ -17,39 +20,33 @@
 <div class="row">
     <div class="col-xl-4">
         <div class="p-4 " style="width: 17rem">
-                        <img class="card-img-top rounded-circle" src="~/assets/img/profile-img.jpg" alt="Card image cap">
-                    </div>
+            <img class="card-img-top rounded-circle" src="~/assets/img/profile-img.jpg" alt="Card image cap">
+        </div>
     </div>
     <div class="col-xl-8 d-flex align-items-center">
         <div class="row row-cols-auto d-flex justify-content-between align-items-start" style="width: 100%;">
-                    <div style="col-8">
-                        <h2 class="card-title"
-                            style="margin-bottom:0; padding-bottom:0; font-size:24px; font-weight:600; padding:0">
-                            dr. Intan Mutiara
-                        </h2>
-                        <p class="card-text"><small>Spesialis anak | 5 Tahun</small></p>
-                        <p class="card-text">Rp300.000</p>
+            <div style="col-8">
+                <h2 class="card-title"
+                    style="margin-bottom:0; padding-bottom:0; font-size:24px; font-weight:600; padding:0">
+                    dr. Intan Mutiara
+                </h2>
+                <p class="card-text"><small>Spesialis anak | 5 Tahun</small></p>
 
-                    </div>
+            </div>
 
-                    <div class="col-auto">
-                        <button class="btn btn-outline-primary">Chat</button>
-                    </div>
-
+            <div class="col-auto">
+                <button class="btn btn-outline-primary">Chat</button>
+                <p><small>Rp30.0000</small></p>
+            </div>
         </div>
     </div> 
-</div>
+</div><!-- End section -->
 
 
 <section class="section profile">
             <div class="row">
+                <!-- left section -->
                 <div class="col-xl-4">
-                    <!--Image-->
-                    @* <div class="p-4 " style="width: 17rem">
-                        <img class="card-img-top rounded-circle" src="~/assets/img/profile-img.jpg" alt="Card image cap">
-                    </div> *@
-                    <!--Image-->
-
                     <div class="card">
                         <h5 class="card-header">Tentang Saya</h5>
                         <div class="card-body">
@@ -95,65 +92,63 @@
                     </div>
                 </div>
 
+                <!-- Right Section -->
                 <div class="col-xl-8">
                     <div class="card">
-                        <div class="card-body pt-3">
-                            <!-- Bordered Tabs -->
-                            <ul class="nav nav-tabs nav-tabs-bordered">
-
-                                <li class="nav-item">
-                                    <button class="nav-link active" data-bs-toggle="tab" data-bs-target="#tindakan">Tindakan</button>
-                                </li>
-
-                                <li class="nav-item">
-                                    <button class="nav-link" data-bs-toggle="tab" data-bs-target="#aktifitas">Aktifitas</button>
-                                </li>
-
-                                <li class="nav-item">
-                                    <button class="nav-link" data-bs-toggle="tab" data-bs-target="#konsultasi">Konsultasi</button>
-                                </li>
-
-                                <li class="nav-item">
-                                    <button class="nav-link" data-bs-toggle="tab" data-bs-target="#pengaturan">Pengaturan</button>
-                                </li>
-
-                            </ul>
-                            <div class="tab-content pt-2">
-
-                                <div class="tab-pane fade show active profile-overview" id="tindakan">
-                                    <h5 class="card-title">Tindakan</h5>
-                                    <p class="small fst-italic">Sunt est soluta temporibus accusantium neque nam maiores cumque temporibus. Tempora libero non est unde veniam est qui dolor. Ut sunt iure rerum quae quisquam autem eveniet perspiciatis odit. Fuga sequi sed ea saepe at unde.</p>
-
+                        <div class="card-header">
+                            Lokasi Praktek
+                        </div>
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col-md-8">
+                                    <h5 class="card-title">RS Mitra</h5>
+                                    <p class="card-text"><small>Poliklinik Anak</small></p>
+                                    <div>
+                                        <i class="bi bi-pin-map me-3"></i>
+                                        <span>
+                                        <small>Jl. Kebenaran Kavling 3S Kecamatan, Kota</small>
+                                        </span>
+                                    </div>
                                 </div>
-
-                                <div class="tab-pane fade profile-edit pt-3" id="aktifitas">
-
-                            <h5 class="card-title">Aktifitas</h5>
-                            <p class="small fst-italic">Sunt est soluta temporibus accusantium neque nam maiores cumque temporibus. Tempora libero non est unde veniam est qui dolor. Ut sunt iure rerum quae quisquam autem eveniet perspiciatis odit. Fuga sequi sed ea saepe at unde.</p>
-
+                                <div class="col-md-4">
+                                    <p><small>Biaya Konsultasi mulai dari</small><br>
+                                    Rp300.000
+                                    </p>
                                 </div>
-
-                                <div class="tab-pane fade pt-3" id="konsultasi">
-
-                            <h5 class="card-title">Konsultasi</h5>
-                            <p class="small fst-italic">Sunt est soluta temporibus accusantium neque nam maiores cumque temporibus. Tempora libero non est unde veniam est qui dolor. Ut sunt iure rerum quae quisquam autem eveniet perspiciatis odit. Fuga sequi sed ea saepe at unde.</p>
-
+                            </div>  
+                        </div>
+                        <div class="card-footer text-body-secondary">
+                            <button id="btn-change" class="btn p-0" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+                                <p id="bi-down"><i class="bi bi-chevron-down me-3"></i><small>Lihat jadwal praktek</small></p>
+                                <p id="bi-up"><i class="bi bi-chevron-up me-3"></i><small>Sembunyikan jadwal praktek</small></p>
+                            </button>
+                            <div class="collapse" id="collapseExample">
+                                <div class="card card-body pb-0 mb-0" style="box-shadow:none">
+                                    <div class="row">
+                                        <div class="col-md-8">
+                                            <ul>
+                                                <li>Senin   :18.00 - 21.00</li>
+                                                <li>Selasa  :09.00 - 12.00</li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <a href="#" class="btn btn-primary">Buat Janji</a>
+                                        </div>
+                                    </div>
                                 </div>
-
-                                <div class="tab-pane fade pt-3" id="pengaturan">
-                            <h5 class="card-title">Pengaturan</h5>
-                            <p class="small fst-italic">Sunt est soluta temporibus accusantium neque nam maiores cumque temporibus. Tempora libero non est unde veniam est qui dolor. Ut sunt iure rerum quae quisquam autem eveniet perspiciatis odit. Fuga sequi sed ea saepe at unde.</p>
-
-                                </div>
-
-                            </div><!-- End Bordered Tabs -->
-
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
 </section>
 
+<script>
+    $("#btn-change").click(function(){
+        alert("Hello World")
+        $("#change").html("<p><i class="bi bi-chevron-up"></i>   Sembunyikan jadwal praktek</p>");
+    });
+</script>
 
 
 
